@@ -1,0 +1,26 @@
+/*.col {background-color: grey;
+border: 2px solid black;
+}*/
+
+
+
+.jumbotron{
+	background-image: url(https://images.unsplash.com/photo-1584782930577-cf36972f2908?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60);
+}
+
+.display-4{
+	color: white;
+	text-shadow: 1px 1px #AA3939;
+}
+.lead{
+	color: white;
+	font-weight: bold;
+	text-shadow: 1px 1px #AA3939;
+}
+.btn{
+	color:#AA3939;
+	border-color: #AA3939;
+}
+.btn:hover{
+	background-color: #AA3939;
+}
